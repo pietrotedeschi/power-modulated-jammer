@@ -20,15 +20,15 @@ pybombs install gnuradio
 pybombs install gr-osmosdr
 ```
 
-## How to Run the Script
-```python3 pmj.py```
-
-## Hardware Requirements
+### Hardware Requirements
 Great Scott Gadgets HackRF One: https://greatscottgadgets.com/hackrf/one/
 
 Antenna(s): ANT500, VERT900, VERT2450 (it depends by the frequency that you want to jam)
 
 In order to measure the RF receiving power, you can buy the RF Power Meter v2 from https://www.immersionrc.com/fpv-products/rfpwrv2/ and attach it directly to the HackRF One.
+
+## How to Run the Script
+```python3 pmj.py```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
