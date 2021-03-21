@@ -5,7 +5,7 @@
      <img alt="License" src="https://img.shields.io/static/v1.svg?label=build&message=passing&color=brightgreen">
      <img alt="Organization" src="https://img.shields.io/static/v1.svg?label=org&message=CRI-LAB&color=blue">
 </p>
-We propose a new type of jammer, i.e., the \emph{power-modulated} jammer. Our intuition is that a jammer that randomly changes its transmission power can make the localization process much harder (even impossible in some cases).
+We propose a new type of jammer, i.e., the _power-modulated_ jammer. Our intuition is that a jammer that randomly changes its transmission power can make the localization process much harder (even impossible in some cases).
 
 ## Software and Hardware Requirements
 In order to setup the environment, you need to install the last version of GnuRadio and the module ```gr-osmosdr``` to work with the HackRF One.
