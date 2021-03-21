@@ -7,8 +7,10 @@
 # GNU Radio Python Flow Graph
 # Title: Power-modulated Jammer
 # Author: Pietro Tedeschi
+# E-mail: ptedeschi@hbku.edu.qa
 # Description: Power-Modulated Jammer
 # GNU Radio version: v3.8.2.0-73-g4a84443c
+# All rights reserved.
 
 from gnuradio import analog
 from gnuradio import gr
