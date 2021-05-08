@@ -7,6 +7,8 @@
 </p>
 We propose a new type of jammer, i.e., the <i>power-modulated jammer</i>. Our intuition is that a jammer that randomly changes its transmission power can make the localization process much harder (even impossible in some cases).
 
+The details will be provided in the paper.
+
 ## Software and Hardware Requirements
 In order to setup the environment, you need to install the last version of GnuRadio and the module ```gr-osmosdr``` to work with the HackRF One.
 ```
@@ -20,7 +22,7 @@ pybombs install gnuradio
 pybombs install gr-osmosdr
 ```
 
-### Hardware Requirements
+## Hardware Requirements
 Great Scott Gadgets HackRF One: https://greatscottgadgets.com/hackrf/one/
 
 Antenna(s): ANT500, VERT900, VERT2450 (it depends by the frequency that you want to jam)
@@ -32,11 +34,23 @@ In order to measure the RF receiving power, you can buy the RF Power Meter v2 fr
 ## How to Run the Script
 ```python3 pmj.py```
 
+## Testbed
+<p align="center">
+     <img alt="Experimental Testbed" src="./figures/testbed.jpeg" width="500">
+</p>
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Disclaimer
 Any actions and or activities related to the material contained within this github repository is solely your responsibility. The misuse of the information in this repository can result in criminal charges brought against the persons in question. The author(s) will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this repository to break the law.
+
+## Authors
+- Pietro Tedeschi (ptedeschi@hbku.edu.qa)
+- Gabriele Oligeri (goligeri@hbku.edu.qa)
+- Roberto Di Pietro (rdipietro@hbku.edu.qa)
+
+Division of Information and Computing Technology (ICT), College of Science and Engineering (CSE) - Hamad Bin Khalifa University (HBKU), Doha, Qatar
 
 ## License
 `Power-modulated Jammer` is released under the GPL3-Clause <a href="LICENSE">license</a>.
