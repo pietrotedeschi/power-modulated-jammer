@@ -32,7 +32,7 @@ Clock (optional): High Precision External TCXO Clock PPM0.1 for HackRF One
 In order to measure the RF receiving power, you can buy the RF Power Meter v2 from https://www.immersionrc.com/fpv-products/rfpwrv2/ and connect it directly to the HackRF One.
 
 ## How to Run the Script
-```python3 pmj.py```
+```python3 ./pmj.py```
 
 ## Testbed
 <p align="center">
