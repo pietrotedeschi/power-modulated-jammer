@@ -34,7 +34,7 @@ In order to measure the RF receiving power, you can buy the RF Power Meter v2 fr
 ## How to Run the Script
 ```python3 ./pmj.py```
 
-## Testbed
+## Experimental Testbed
 <p align="center">
      <img alt="Experimental Testbed" src="./figures/testbed.jpeg" width="500">
 </p>
