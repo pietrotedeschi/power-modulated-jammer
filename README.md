@@ -46,8 +46,6 @@ Any actions and or activities related to the material contained within this gith
 
 ## Authors
 - Pietro Tedeschi (ptedeschi@hbku.edu.qa)
-- Gabriele Oligeri (goligeri@hbku.edu.qa)
-- Roberto Di Pietro (rdipietro@hbku.edu.qa)
 
 Division of Information and Computing Technology (ICT), College of Science and Engineering (CSE) - Hamad Bin Khalifa University (HBKU), Doha, Qatar
 
