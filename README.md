@@ -23,6 +23,7 @@ pybombs install gr-osmosdr
 ```
 
 ## Hardware Requirements
+- A laptop equipped with GNU/Linux distro and GNURadio
 - Great Scott Gadgets HackRF One: https://greatscottgadgets.com/hackrf/one/
 - Antenna(s): ANT500, VERT900, VERT2450 (it depends by the frequency that you want to jam)
 - Clock (optional): High Precision External TCXO Clock PPM0.1 for HackRF One
