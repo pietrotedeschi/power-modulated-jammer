@@ -1,4 +1,4 @@
-# Hide-and-Seek: Locating a Power-modulated Jammer
+# Power-modulated Jammers: Modeling, experimental results, and insights on a novel, difficult to locate, class of Jammers
 <p align="center">
      <img alt="License" src="https://img.shields.io/static/v1.svg?label=license&message=GPL3&color=brightgreen">
      <img alt="Release" src="https://img.shields.io/static/v1.svg?label=release&message=1.0&color=blue">
