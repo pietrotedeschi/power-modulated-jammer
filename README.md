@@ -7,7 +7,7 @@
 </p>
 We propose a new type of jammer, i.e., the <i>power-modulated jammer</i>. Our intuition is that a jammer that randomly changes its transmission power can make the localization process much harder (even impossible in some cases).
 
-The details will be provided in the paper.
+The details are provided in the paper (https://www.mdpi.com/1424-8220/22/2/646/htm).
 
 ## Software and Hardware Requirements
 In order to setup the environment, you need to install the last version of GnuRadio and the module ```gr-osmosdr``` to work with the HackRF One.
